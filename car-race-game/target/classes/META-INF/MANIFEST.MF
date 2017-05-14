@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: car-race-game
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: tendani
+Specification-Title: car-race-game
+Implementation-Vendor-Id: za.co.gli.game
+Build-Jdk: 1.8.0_121
+Specification-Version: 0.0.1-SNAPSHOT
+Created-By: Maven Integration for Eclipse
+Main-Class: za.co.gli.game.Application
+

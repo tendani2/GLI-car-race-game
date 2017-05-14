@@ -1,0 +1,8 @@
+za\co\gli\util\ReadConfig.class
+za\co\gli\util\CarComparator.class
+za\co\gli\model\Track.class
+za\co\gli\game\Application.class
+za\co\gli\model\Car.class
+za\co\gli\util\InvalidDataException.class
+za\co\gli\service\CarRacingService.class
+za\co\gli\util\GameUtils.class
